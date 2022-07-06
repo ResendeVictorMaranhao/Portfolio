@@ -1,0 +1,96 @@
+:root{
+    --c1:#0C0101;
+    --c2:#320808;
+    --c3:#4E0F0F;
+    --c4:#601414;
+    --c5:#732525;
+    --c6:#7C2E2E;
+    --c7:#893636;
+    --c8:#953F3A;
+    --c9:#D99F9C;
+    --c10:#D38D81;
+    --c11:#E19E92;
+    --c12:#EEB2A8;
+    --c13:#F5DBDB;
+    --c14:#FFDCD7;
+    --c15:#FEEAE7;
+    --c16:#FEF2F0;
+    --c17:#BB5C56;
+    --t1:4rem;/*64px*/
+    --t2:3rem; /*48px*/
+    --t3:1.5rem; /*24px*/
+    --t4:1.25rem;/*20px*/
+    --t5:1rem;/*16px*/
+    --gap1:0.75rem;/*12px*/
+    --gap2:1rem;/*12px*/
+    --gap3:1.5rem;/*24px*/
+    --gap4: 2rem; /*32px*/
+    --gap5: 3rem; /*48px*/
+    --gap9:10rem;/*160px*/
+}
+.bg{
+    background-color: #FEF2F0;
+}
+.mg-top{
+    padding-top: var(--t1);
+}
+.t1{
+    font-size: var(--t1);
+    font-weight: 600;
+}
+.t3{
+    font-size: var(--t3);
+    font-weight: 500;
+}
+.t3-1{
+    font-size: var(--t3);
+    font-weight: 400;
+}
+.lg1{
+    width: 100%;
+}
+.grid-col2{
+    grid-template-columns: 1fr 1fr;
+}
+.grid{
+    display: grid;
+}
+
+.flex{
+    display: flex;
+}
+
+.align-center{
+    align-items: center;
+}
+.jutify-between{
+    justify-content: space-between;
+}
+.container-1200{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.p-menu{
+    padding: 40px 20px;;
+}
+.g3{
+    gap: var(--t4);
+}
+.g5{
+gap: var(--gap5);
+}
+.c1{
+    color: var(--c1);
+}
+.c2{
+    color: var(--c2);
+}
+.t4{
+    font-size: var(--t4);
+}
+.font-w3{
+    font-weight: 300;
+}
+.f-direction{
+    flex-direction: column;
+}
