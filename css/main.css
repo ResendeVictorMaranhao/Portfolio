@@ -16,13 +16,25 @@
     --c15:#FEEAE7;
     --c16:#FEF2F0;
     --c17:#BB5C56;
+
+    
+    /*refatorado*/
+    --e1:1rem;/*12px*/
+      --e1-6:1rem;/*16px*/
+      --e2:1.25rem;/*20px*/
+      --e2-4:1.5rem; /*24px*/
+      --e3-2:2rem;/*32px*/
+      --e4-8:3rem;  /*48px*/
+      --e6-4: 4rem;  /*64px*/
+      --e1-60: 10rem;  /*160px*/
+    /*-----*/
     --t1:4rem;/*64px*/
     --t2:3rem; /*48px*/
     --t3:1.5rem; /*24px*/
     --t4:1.25rem;/*20px*/
     --t5:1rem;/*16px*/
     --gap1:0.75rem;/*12px*/
-    --gap2:1rem;/*12px*/
+    --gap2:1rem;/*16px*/
     --gap3:1.5rem;/*24px*/
     --gap4: 2rem; /*32px*/
     --gap5: 3rem; /*48px*/
