@@ -3,11 +3,17 @@ Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilid
 
 ##### Técnicas utilizadas no projeto:
 - Heurísticas de UI Design
-  - F
+  - Facilitar o escanemento do contúdo através de Links, títulos e listas.
+  - Contúdos visíveis para áreas que serão mais acessadas.
+  - Logo marca à direita e menu à esquerda.
+  - Cores de base e enfase
 - CSS Flex box
 - CSS Grid Layout
 - Variáveis CSS
-- CSS uitilitário
+  - cores
+  - Tipografia
+- CSS uitilitário em:
+  
 
 ##### Ferramentas utilizadas:
 - Figma
