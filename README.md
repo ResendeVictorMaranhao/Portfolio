@@ -9,10 +9,10 @@ Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilid
   - Cores de base e enfase
 - CSS Flex box
 - CSS Grid Layout
-- Variáveis CSS
+- Variáveis CSS em:
   - cores
   - Tipografia
-- CSS uitilitário em:
+- CSS uitilitário
   
 
 ##### Ferramentas utilizadas:
