@@ -2,7 +2,7 @@
 Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilidade para o Conteúdo da Web da WCAG.
 
 ##### Técnicas utilizadas no projeto:
-- Técnicas de UI Design
+- Heurísticas de UI Design
 - CSS Flex box
 - CSS Grid Layout
 - Variáveis CSS
