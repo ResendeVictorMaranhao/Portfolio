@@ -8,6 +8,10 @@ Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilid
 - Variáveis CSS
 - CSS uitilitário
 
+##### Ferramentas utilizadas:
+- Figma
+- Vs Code
+
 *Link do protótipo:*
 https://www.figma.com/file/nbA1aiQKkXXFdXeRCzaBcN/0513-exportar-projeto-pessoal?node-id=10%3A0
 
