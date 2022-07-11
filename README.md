@@ -1,7 +1,7 @@
 # Portfolio
 Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilidade para o Conteúdo da Web da WCAG.
 
-##### Técnicas utilizadas no projeto:
+## Técnicas utilizadas no projeto:
 - Heurísticas de UI Design
   - Facilitar o escanemento do contúdo através de Links, títulos e listas.
   - Contúdos visíveis para áreas que serão mais acessadas.
@@ -15,7 +15,7 @@ Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilid
 - CSS uitilitário
   
 
-##### Ferramentas utilizadas:
+## Ferramentas utilizadas:
 - Figma
 - Vs Code
 
