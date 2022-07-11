@@ -12,7 +12,8 @@ Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilid
 - Variáveis CSS em:
   - cores
   - Tipografia
-- CSS uitilitário
+- CSS uitilitário em:
+  -Botões
   
 
 ## Ferramentas utilizadas:
