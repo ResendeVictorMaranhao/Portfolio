@@ -1,7 +1,7 @@
 # Portfolio
 Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de Acessibilidade para o Conteúdo da Web da WCAG.
 
-Link do protótipo no figma:
+Link do protótipo:
 https://www.figma.com/file/nbA1aiQKkXXFdXeRCzaBcN/0513-exportar-projeto-pessoal?node-id=10%3A0
 
 
