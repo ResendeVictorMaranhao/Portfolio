@@ -3,6 +3,7 @@ Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilid
 
 ##### Técnicas utilizadas no projeto:
 - Heurísticas de UI Design
+  - F
 - CSS Flex box
 - CSS Grid Layout
 - Variáveis CSS
