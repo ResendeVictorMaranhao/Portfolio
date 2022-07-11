@@ -5,7 +5,7 @@ Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilid
 - UI Design
   - Heurísticas 
     - Facilitar o escanemento do contúdo através de Links, títulos e listas.
-    - Contúdos visíveis para áreas que serão mais acessadas.
+    - Conteúdos visíveis para áreas que serão mais acessadas.
     - Logo marca à direita e menu à esquerda.
   - Cores de base e enfase
 - CSS Flex box
