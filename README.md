@@ -1,5 +1,5 @@
 # Portfólio📜
-Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilidade para o Conteúdo da Web da WCAG.
+Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilidade para o Conteúdo da Web.
 
 ## Técnicas utilizadas no projeto:
 - UI Design
