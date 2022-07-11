@@ -13,7 +13,7 @@ Prototipei o projeto no figma e codifiquei seguindo as Diretrizes de acessibilid
   - cores
   - Tipografia
 - CSS uitilitário em:
-  -Botões
+  - Botões
   
 
 ## Ferramentas utilizadas:
